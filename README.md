@@ -1,13 +1,13 @@
 # HaloFarm-GHOST
 Python implementation of a galaxy-halo model developed by Phil Bull.
 
-================================================================================
+===========================================================
 GHOST Model Implementation/HaloFarm Code
               ---
          Amanda Brown
    aclairebrown@hotmail.com
          August 2016
-================================================================================
+===========================================================
 
 Statistically modeling the relationship between dark matter halos and the
 galaxies that they contain.
